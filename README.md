@@ -1,74 +1,92 @@
-# constructProject1(Clone of Expedia.com)
+# Clone of Geekbyuing.com
+This was our project for Unit-2 Construct week at Masai Shcool.
+Our target was to complete all main functionality of e-commerce website have, such as sing up to till to the byuing of a product.
+We have completed this project in 5 days.
 
-# Expedia.com is a destination website. People visit this site to book the hotels or flights and many other things where they want to travel to.
+- [Click here](https://geekbuying-com-clone.vercel.app/) to see preview of our project.
 
-# Expedia Team - We the Expedia Team includes Sukhendu Pual, Sayali Divate, Abhay Faldu, Vikas Dongarwar, Manjunath Patil and Nishchay Gupta.
-
-
-
-# Work done by the team members....
-
-**This website is made using HTML CSS and Javascript**
-
-# Sign-in/Sign-up page (Abhay Faldu)
-
- Details about sign up page
-
- * In the sign up page we can sing up by entering our email, first name, last name,  and password.
- * We can only sign up once with the one email.
- * All the field are required in the form.
- * The form will take out data and it will store it in local storage.
-  And then we will be redirected to sign in page.
-------------------------------------------------------------
- Details about sign in page
-
- * After landing to the sign in page you will have to sign in to continue.
- * We will fill the email and password.
- * Then by submitting our email and password will be checked that if they exist in  local storage or not.
- * Now if the email and password matches with the existing data in local storage  you will be redirected to the home page.
- * else you will get an alert massage.
- Collapse.
- 
-
-# Home page (Nishchay Gupta)
-
-* After singning in, you will land on the home page.
-* In home page in navbar section in top right corner you will be able to see your name as you have signed in.
-* You can see the articles on entire home page.
-* Now if you're in **stay** tab you can see the search tab.
-* In search tab write **goa** and click on **search** button.
-* You will be redirected to the Product page where you can see the hotels which are there in Goa.
+Geekbyuing.com is leading E-Commerce web application which provides large range of electronics and smart gadgets.
 
 
-# Product page(Different Hotels Detail) (Sukhendu Paul and Vikas Dongarwar)
-
-* The detail of a hotel is created in a div. and all the div's containing different hotel detail are appended in the body of HTML using a Java Script higher-order function forEach().
-
-* For sorting the function according to their price or rating in-build sort function has been used.
-
-* The page has been made responsive for all screen types for that Media Query has been used for different screen sizes. 
-* If we click on Fairfield by Marriott Goa Anjuna it will redirect us to that page.
 
 
-# Hotel Detail: Fairfield by Merriott Anjuna (Sayali Divate and Abhay Faldu)
+## Credits
 
-* In our project, we've particularly worked only on **Goa** destination and hotel **Fairfield by Marriott Goa Anjuna**. 
+ - Images : [Geekbyuing.com](https://www.geekbuying.com/)
+ - Content : [Geekbyuing.com](https://www.geekbuying.com/)
+ - Icons : [Font Awesome](https://fontawesome.com/)
+ - References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/)
 
-* If one selects this hotel one can go to the site of the same hotel wherein one can see all the hotel details. At the bottom right corner of the image gallery, one can see the button, after clicking that button you will be able to land on the page of the photos where you can sort the photos according to the sections given. Now after clicking on the back button you will again land on the hotel page. 
+## Tech Stack
 
-* If you click on the **Reserve a Room** button you will go to the section of room space where you can see the rooms that are available. Now select the check-in and check-out date as well as you can increase the no of travelers and rooms as well. 
+- HTML 5
+- CSS 3
+- Javascript
+- Github
+## Features
 
-* Once you click on the **Check Availability** button, you will see the available rooms. If you're selecting the number of travelers more than 2 times as the rooms that you have selected the window will pop up showing the msg that  **“The available rooms can’t accommodate (number of travelers you mentioned) guests. Add another room”**.  The message appears because the available rooms can only accommodate 2 people. Then try adding more rooms and again click on Check Availability. Once you're done, scroll down on room space. 
+- Login and Signin page
+- Carouse for product pictures
+- Detailed product preview page
+- Filters for coustom price
+- Sort functions for Higher to Lower price,Lower to Higher price and Search bar for finding the product by it's name.
+- Manual slider for product card.
+- Add to cart opt for buying products.
 
-* Now you will be able to see the options, you have to select the options that you want to choose. After that make sure that you’re clicking the **Click to Confirm** button. 
-
-* Below the Click to confirm button you will be able to see the **total cost per night** including the option price that you have selected and below that there is a **total cost** which is calculated considering the number of rooms you're booking from check-in to check-out date also it includes **18% tax** on hotel expense and food expense. Once you click the **Reserve (Number of Room)** button you will be redirected to the payment page.
 
 
-# Payment Page (Manjunath Patil)
+## Demo
 
-* This page contains the hotel details like hotel name, check-in and check-out dates, the number of travelers, the number of night rooms booked, and the number of rooms booked.
-* In the price details, the price is calculated like this "number of rooms * Number of the night * price of room per night" and taxes also included by adding these two total prices are displayed.
-* promo code is "SUMMER30", in the total price 30% will be deducted.
-All the required fields should be filled in the payment section otherwise it will show an alert message.
-* "For all the above mentioned functionalities data is taken from previous page (locaStorage) you have to follow the correct process of previous page"
+[Click here](https://drive.google.com/file/d/1-kuWbPpRxf_hCHESnUfWqlrbqgwa-XOp/view?usp=sharing) to watch our project preview in a video format. 
+
+
+
+## Screenshots
+
+![Website Screenshot](https://cdn.hashnode.com/res/hashnode/image/upload/v1645977375942/ZvvdOsCvM.png)
+
+![Screenshot from 2022-02-27 20-57-05.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645976977453/Syoyw5ZJX.png)
+
+
+
+![Screenshot from 2022-02-27 20-57-13.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645977058939/RFwDg5uqJ.png)
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952211716/aSboxm1Phc.png)
+
+
+
+![2022-02-27 (5).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645974613126/Qu0VM_qxC.png)
+
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952352339/FP-TI7Jbr.png)
+
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952436530/5Y4-JLPNF.png)
+## Challenges
+
+1. As every journey has some challenges and so was ours. In our team, all of the members were not familiar with each other so it was difficult for all of us to communicate and collaborate, there were some moments where members were not able to communicate with each other and had a conflict and it was hard for everyone to handle these conflicts.
+
+2. Another problem was to merge all of the files in a proper sequence which was again a difficult task for us because while merging and connecting all the pages some of the pages had the same name, and while running the site it was redirecting to some other pages so it was difficult to find the location and to rename the file.
+
+3. As the navbar and footer were common for all the pages so we copied both of them in a single folder and imported them in every code, this was a kind of new method for us and we struggled while doing this step.
+
+4. We faced challenges with CSS tags and class also, because when we merged CSS files for any page in which 2-3 members have worked, sometimes tags were colliding because of the same names of tags and classes.
+
+## Team
+
+- Gautam Gohil
+- Dathu Ram
+- Saradhi Mopada
+- Biman Gharai
+- Nikesh Hiwraj Borkar
+- Rojalini Das
+
+## Blogg link
+
+- https://medium.com/@nikeshborkar008/functional-clone-of-geekbuying-e-commerce-website-4e6fa872e2ac
+
+## Authors
+
+- [@Nikesh Borkar](https://github.com/NikeshBorkar)
