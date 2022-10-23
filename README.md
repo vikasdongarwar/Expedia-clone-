@@ -84,7 +84,7 @@ Expedia.com is a destination website. People visit this site to book the hotels 
 
 ## Blogg link
 
-- [Click here](https://medium.com/@vikasdongarwar1012/22585a54de0a) to Read Blogg on Medium
+- [Click here](https://medium.com/@vikasdongarwar1012/22585a54de0a) to Read Blog on Medium
 
 ## Authors
 
