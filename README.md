@@ -3,17 +3,17 @@ This was our project for Unit-2 Construct week at Masai Shcool.
 Our target was to complete all main functionality of e-commerce website have, such as sing up to till to the buying of a product.
 We have completed this project in 5 days.
 
-- [Click here](https://geekbuying-com-clone.vercel.app/) to see preview of our project.
+- [Click here](https://magnificent-gecko-a7ac13.netlify.app/) to see preview of our project.
 
-Geekbyuing.com is leading E-Commerce web application which provides large range of electronics and smart gadgets.
+Expedia.com is a destination website. People visit this site to book the hotels or flights and many other things where they want to travel to.
 
 
 
 
 ## Credits
 
- - Images : [Geekbyuing.com](https://www.geekbuying.com/)
- - Content : [Geekbyuing.com](https://www.geekbuying.com/)
+ - Images : [Expedia.com](https://www.expedia.com/)
+ - Content : [Expedia.com](https://www.expedia.com/)
  - Icons : [Font Awesome](https://fontawesome.com/)
  - References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/)
 
@@ -26,18 +26,17 @@ Geekbyuing.com is leading E-Commerce web application which provides large range 
 ## Features
 
 - Login and Signin page
-- Carouse for product pictures
-- Detailed product preview page
-- Filters for coustom price
-- Sort functions for Higher to Lower price,Lower to Higher price and Search bar for finding the product by it's name.
-- Manual slider for product card.
-- Add to cart opt for buying products.
+- Home page with search bar 
+- Hotels list according to searched city
+- Filter functions for Higher to Lower price,Lower to Higher price and for hotels rating.
+- Detailed hotel preview page with service selection facility.
+- Payment page to confirm booking.
 
 
 
 ## Demo
 
-[Click here](https://drive.google.com/file/d/1-kuWbPpRxf_hCHESnUfWqlrbqgwa-XOp/view?usp=sharing) to watch our project preview in a video format. 
+[Click here](https://drive.google.com/file/d/1npxLcVTIWtShdiwMRo5ImyTZ1oj0Kq1Z/view?usp=sharing) to watch our project preview in a video format. 
 
 
 
