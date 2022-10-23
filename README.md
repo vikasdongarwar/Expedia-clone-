@@ -42,27 +42,27 @@ Expedia.com is a destination website. People visit this site to book the hotels 
 
 ## Screenshots
 
-![Website Screenshot](https://cdn.hashnode.com/res/hashnode/image/upload/v1645977375942/ZvvdOsCvM.png)
+![Website Screenshot](https://miro.medium.com/max/720/1*NLLJAQuw6COpdNV4jIgopg.png)
 
-![Screenshot from 2022-02-27 20-57-05.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645976977453/Syoyw5ZJX.png)
-
-
-
-![Screenshot from 2022-02-27 20-57-13.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645977058939/RFwDg5uqJ.png)
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952211716/aSboxm1Phc.png)
+![Screenshot from 2022-02-27 20-57-05.png](https://miro.medium.com/max/720/1*EATHBHpib8imvbvhpR_G1A.png)
 
 
 
-![2022-02-27 (5).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645974613126/Qu0VM_qxC.png)
+![Screenshot from 2022-02-27 20-57-13.png](https://miro.medium.com/max/720/1*wC9SGndRUQq6si4t8QmraQ.png)
+
+![image.png](https://miro.medium.com/max/720/1*tYSsUBL5cGtT98wcJhSUDw.png)
 
 
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952352339/FP-TI7Jbr.png)
+![2022-02-27 (5).png](https://miro.medium.com/max/720/1*kVFGtEqHSKQ5w7S3BDXmDQ.png)
 
 
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645952436530/5Y4-JLPNF.png)
+![image.png](https://miro.medium.com/max/720/1*0rmn5tnqNvsP6N2beQsPow.png)
+
+
+
+![image.png](https://miro.medium.com/max/720/1*XXp0X6uZMcTlge0XPq_sxg.png)
 ## Challenges
 
 1. As every journey has some challenges and so was ours. In our team, all of the members were not familiar with each other so it was difficult for all of us to communicate and collaborate, there were some moments where members were not able to communicate with each other and had a conflict and it was hard for everyone to handle these conflicts.
