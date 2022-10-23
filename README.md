@@ -75,17 +75,17 @@ Expedia.com is a destination website. People visit this site to book the hotels 
 
 ## Team
 
-- Gautam Gohil
-- Dathu Ram
-- Saradhi Mopada
-- Biman Gharai
-- Nikesh Hiwraj Borkar
-- Rojalini Das
+- Sukhendu Paul
+- Manjunath Patil
+- Sayali Divate
+- Nishchay Gupta
+- Vikas Dongarwar
+- Abhay Faldu
 
 ## Blogg link
 
-- https://medium.com/@nikeshborkar008/functional-clone-of-geekbuying-e-commerce-website-4e6fa872e2ac
+- [Click here](https://medium.com/@vikasdongarwar1012/22585a54de0a) to Read Blogg on Medium
 
 ## Authors
 
-- [@Nikesh Borkar](https://github.com/NikeshBorkar)
+- [@Vikas Dongarwar](https://github.com/vikasdongarwar)
